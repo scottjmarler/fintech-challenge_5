@@ -22,14 +22,21 @@ Challenge_5, Module_5
 
 ### Import the required libraries and dependencies
 
->pandas  https://pandas.pydata.org/
->os  https://docs.python.org/3/library/os.html
->requests https://docs.python-requests.org/en/latest/
->json    https://docs.python.org/3/library/json.html
->dotenv  https://pypi.org/project/python-dotenv/
->alpaca  https://alpaca.markets/docs/api-references/trading-api/assets/
->MCForecastTools https://pbpython.com/monte-carlo.html
->matplotlib  https://matplotlib.org/
+>`pandas`           https://pandas.pydata.org/
+
+>`os`               https://docs.python.org/3/library/os.html
+
+>`requests`         https://docs.python-requests.org/en/latest/
+
+>`json`             https://docs.python.org/3/library/json.html
+
+>`dotenv`           https://pypi.org/project/python-dotenv/
+
+>`alpaca`           https://alpaca.markets/docs/api-references/trading-api/assets/
+
+>`MCForecastTools`  https://pbpython.com/monte-carlo.html
+
+>`matplotlib`       https://matplotlib.org/
 
 
 
